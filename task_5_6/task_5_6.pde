@@ -17,7 +17,7 @@ void setup(){
   circleSize = width / numberOfCircles;
   ellipseMode(CORNER);
 
-  // 6.b – Startfarve: hvid (kun 255)
+  // 6.b – Startfarve: hvid
   red = 255;
   green = 255;
   blue = 255;
